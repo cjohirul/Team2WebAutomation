@@ -10,7 +10,6 @@
     <version>1.0</version>
     <modules>
         <module>Generic</module>
-        <module>Demo</module>
         <module>Amazon</module>
         <module>Cnn</module>
         <module>Horizon</module>
