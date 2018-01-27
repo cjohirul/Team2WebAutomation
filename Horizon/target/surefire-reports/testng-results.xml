@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="15" passed="15">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Horizon Automation Test" duration-ms="141122" started-at="2018-01-11T02:54:47Z" finished-at="2018-01-11T02:57:08Z">
+    <groups>
+    </groups>
+    <test name="Horizon" duration-ms="141122" started-at="2018-01-11T02:54:47Z" finished-at="2018-01-11T02:57:08Z">
+      <class name="home.TestViewFields">
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:home.TestViewFields@1f554b06]" name="setUp" is-config="true" duration-ms="5718" started-at="2018-01-10T21:54:47Z" finished-at="2018-01-10T21:54:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[browserstack]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sierra]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[57.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.horizonnjhealth.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testViewFields01()[pri:0, instance:home.TestViewFields@1f554b06]" name="testViewFields01" duration-ms="16" started-at="2018-01-10T21:54:53Z" finished-at="2018-01-10T21:54:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testViewFields01 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:home.TestViewFields@1f554b06]" name="cleanUp" is-config="true" duration-ms="2118" started-at="2018-01-10T21:54:53Z" finished-at="2018-01-10T21:54:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:home.TestViewFields@1f554b06]" name="setUp" is-config="true" duration-ms="5162" started-at="2018-01-10T21:54:55Z" finished-at="2018-01-10T21:55:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[browserstack]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sierra]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[57.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.horizonnjhealth.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testViewFields02()[pri:0, instance:home.TestViewFields@1f554b06]" name="testViewFields02" duration-ms="1175" started-at="2018-01-10T21:55:00Z" finished-at="2018-01-10T21:55:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testViewFields02 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:home.TestViewFields@1f554b06]" name="cleanUp" is-config="true" duration-ms="2373" started-at="2018-01-10T21:55:01Z" finished-at="2018-01-10T21:55:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:home.TestViewFields@1f554b06]" name="setUp" is-config="true" duration-ms="5273" started-at="2018-01-10T21:55:04Z" finished-at="2018-01-10T21:55:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[browserstack]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sierra]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[57.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.horizonnjhealth.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testViewFields03()[pri:0, instance:home.TestViewFields@1f554b06]" name="testViewFields03" duration-ms="72" started-at="2018-01-10T21:55:09Z" finished-at="2018-01-10T21:55:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testViewFields03 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:home.TestViewFields@1f554b06]" name="cleanUp" is-config="true" duration-ms="2356" started-at="2018-01-10T21:55:09Z" finished-at="2018-01-10T21:55:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:home.TestViewFields@1f554b06]" name="setUp" is-config="true" duration-ms="5336" started-at="2018-01-10T21:55:12Z" finished-at="2018-01-10T21:55:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[browserstack]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sierra]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[57.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.horizonnjhealth.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testViewFields04()[pri:0, instance:home.TestViewFields@1f554b06]" name="testViewFields04" duration-ms="2544" started-at="2018-01-10T21:55:17Z" finished-at="2018-01-10T21:55:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testViewFields04 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:home.TestViewFields@1f554b06]" name="cleanUp" is-config="true" duration-ms="2109" started-at="2018-01-10T21:55:19Z" finished-at="2018-01-10T21:55:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:home.TestViewFields@1f554b06]" name="setUp" is-config="true" duration-ms="5036" started-at="2018-01-10T21:55:22Z" finished-at="2018-01-10T21:55:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[browserstack]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sierra]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[57.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.horizonnjhealth.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testViewFields05()[pri:0, instance:home.TestViewFields@1f554b06]" name="testViewFields05" duration-ms="2465" started-at="2018-01-10T21:55:27Z" finished-at="2018-01-10T21:55:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testViewFields05 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:home.TestViewFields@1f554b06]" name="cleanUp" is-config="true" duration-ms="2384" started-at="2018-01-10T21:55:29Z" finished-at="2018-01-10T21:55:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:home.TestViewFields@1f554b06]" name="setUp" is-config="true" duration-ms="5109" started-at="2018-01-10T21:55:31Z" finished-at="2018-01-10T21:55:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[browserstack]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sierra]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[57.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.horizonnjhealth.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testViewFields06()[pri:0, instance:home.TestViewFields@1f554b06]" name="testViewFields06" duration-ms="4539" started-at="2018-01-10T21:55:37Z" finished-at="2018-01-10T21:55:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testViewFields06 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:home.TestViewFields@1f554b06]" name="cleanUp" is-config="true" duration-ms="2128" started-at="2018-01-10T21:55:41Z" finished-at="2018-01-10T21:55:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:home.TestViewFields@1f554b06]" name="setUp" is-config="true" duration-ms="5206" started-at="2018-01-10T21:55:43Z" finished-at="2018-01-10T21:55:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[browserstack]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sierra]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[57.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.horizonnjhealth.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testViewFields07()[pri:0, instance:home.TestViewFields@1f554b06]" name="testViewFields07" duration-ms="1571" started-at="2018-01-10T21:55:48Z" finished-at="2018-01-10T21:55:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testViewFields07 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:home.TestViewFields@1f554b06]" name="cleanUp" is-config="true" duration-ms="2373" started-at="2018-01-10T21:55:50Z" finished-at="2018-01-10T21:55:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:home.TestViewFields@1f554b06]" name="setUp" is-config="true" duration-ms="5011" started-at="2018-01-10T21:55:52Z" finished-at="2018-01-10T21:55:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[browserstack]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sierra]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[57.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.horizonnjhealth.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testViewFields08()[pri:0, instance:home.TestViewFields@1f554b06]" name="testViewFields08" duration-ms="3303" started-at="2018-01-10T21:55:57Z" finished-at="2018-01-10T21:56:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testViewFields08 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:home.TestViewFields@1f554b06]" name="cleanUp" is-config="true" duration-ms="2365" started-at="2018-01-10T21:56:01Z" finished-at="2018-01-10T21:56:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:home.TestViewFields@1f554b06]" name="setUp" is-config="true" duration-ms="5019" started-at="2018-01-10T21:56:03Z" finished-at="2018-01-10T21:56:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[browserstack]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sierra]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[57.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.horizonnjhealth.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testViewFields09()[pri:0, instance:home.TestViewFields@1f554b06]" name="testViewFields09" duration-ms="2641" started-at="2018-01-10T21:56:08Z" finished-at="2018-01-10T21:56:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testViewFields09 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:home.TestViewFields@1f554b06]" name="cleanUp" is-config="true" duration-ms="2133" started-at="2018-01-10T21:56:11Z" finished-at="2018-01-10T21:56:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:home.TestViewFields@1f554b06]" name="setUp" is-config="true" duration-ms="5563" started-at="2018-01-10T21:56:13Z" finished-at="2018-01-10T21:56:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[browserstack]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sierra]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[57.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.horizonnjhealth.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testViewFields10()[pri:0, instance:home.TestViewFields@1f554b06]" name="testViewFields10" duration-ms="92" started-at="2018-01-10T21:56:18Z" finished-at="2018-01-10T21:56:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testViewFields10 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:home.TestViewFields@1f554b06]" name="cleanUp" is-config="true" duration-ms="2185" started-at="2018-01-10T21:56:18Z" finished-at="2018-01-10T21:56:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:home.TestViewFields@1f554b06]" name="setUp" is-config="true" duration-ms="7048" started-at="2018-01-10T21:56:21Z" finished-at="2018-01-10T21:56:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[browserstack]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sierra]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[57.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.horizonnjhealth.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testHorizonPage11()[pri:11, instance:home.TestViewFields@1f554b06]" name="testHorizonPage11" duration-ms="1343" started-at="2018-01-10T21:56:28Z" finished-at="2018-01-10T21:56:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHorizonPage11 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:home.TestViewFields@1f554b06]" name="cleanUp" is-config="true" duration-ms="2155" started-at="2018-01-10T21:56:29Z" finished-at="2018-01-10T21:56:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:home.TestViewFields@1f554b06]" name="setUp" is-config="true" duration-ms="4985" started-at="2018-01-10T21:56:31Z" finished-at="2018-01-10T21:56:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[browserstack]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sierra]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[57.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.horizonnjhealth.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testProviderNetwork12()[pri:12, instance:home.TestViewFields@1f554b06]" name="testProviderNetwork12" duration-ms="2182" started-at="2018-01-10T21:56:36Z" finished-at="2018-01-10T21:56:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testProviderNetwork12 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:home.TestViewFields@1f554b06]" name="cleanUp" is-config="true" duration-ms="2404" started-at="2018-01-10T21:56:38Z" finished-at="2018-01-10T21:56:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:home.TestViewFields@1f554b06]" name="setUp" is-config="true" duration-ms="5045" started-at="2018-01-10T21:56:41Z" finished-at="2018-01-10T21:56:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[browserstack]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sierra]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[57.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.horizonnjhealth.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testImageProviderNetwork13()[pri:13, instance:home.TestViewFields@1f554b06]" name="testImageProviderNetwork13" duration-ms="2257" started-at="2018-01-10T21:56:46Z" finished-at="2018-01-10T21:56:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testImageProviderNetwork13 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:home.TestViewFields@1f554b06]" name="cleanUp" is-config="true" duration-ms="2368" started-at="2018-01-10T21:56:48Z" finished-at="2018-01-10T21:56:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:home.TestViewFields@1f554b06]" name="setUp" is-config="true" duration-ms="5039" started-at="2018-01-10T21:56:50Z" finished-at="2018-01-10T21:56:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[browserstack]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sierra]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[57.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.horizonnjhealth.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testSearchProviderDirectory14()[pri:14, instance:home.TestViewFields@1f554b06]" name="testSearchProviderDirectory14" duration-ms="2368" started-at="2018-01-10T21:56:55Z" finished-at="2018-01-10T21:56:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchProviderDirectory14 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:home.TestViewFields@1f554b06]" name="cleanUp" is-config="true" duration-ms="72" started-at="2018-01-10T21:56:58Z" finished-at="2018-01-10T21:56:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:home.TestViewFields@1f554b06]" name="setUp" is-config="true" duration-ms="5644" started-at="2018-01-10T21:56:58Z" finished-at="2018-01-10T21:57:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[browserstack]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sierra]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[57.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.horizonnjhealth.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testProviderSearch15()[pri:15, instance:home.TestViewFields@1f554b06]" name="testProviderSearch15" duration-ms="4775" started-at="2018-01-10T21:57:04Z" finished-at="2018-01-10T21:57:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testProviderSearch15 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:home.TestViewFields@1f554b06]" name="cleanUp" is-config="true" duration-ms="26" started-at="2018-01-10T21:57:08Z" finished-at="2018-01-10T21:57:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- home.TestViewFields -->
+    </test> <!-- Horizon -->
+  </suite> <!-- Horizon Automation Test -->
+</testng-results>

@@ -1,6 +1,7 @@
 package home;
 
 import base.CommonAPI;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
@@ -94,6 +95,11 @@ public class ViewFields extends CommonAPI {
         clickByXpath(".//*[@id='font']/ul/li/a/span");
     }
 
+    @Override
+    public void waitUntilClickAble(By locator) {
+        super.waitUntilClickAble(locator);
+    }
+
     //TC_TS2_015: Verify System displays Provider Location
     public void providerLocation() {
         searchProviderDirectory();
@@ -104,7 +110,15 @@ public class ViewFields extends CommonAPI {
         clickByXpath("//*[@id=\"ddSearchType\"]");
         selectOptionByVisibleText(dropdownOptions, "Physicians");
         clickByXpath("//*[@id=\"PlanType\"]/option[2]");
-        typeByXpath("//*[@id=\"Physician-txtZip\"]", "07801");
-        selectOptionByVisibleText(countyOptions, "Morris, NJ");
     }
+    public void searchByZipcode (){
+        typeByXpath("//*[@id=\"Physician-txtZip\"]", "07801");
+    }
+    public void searchByCounty (){
+        selectOptionByVisibleText(countyOptions, "Somerset, NJ");
+    }
+    public void clicksearchbtn (){
+        clickByName("op");
+    }
+
 }
