@@ -1,6 +1,6 @@
 package homepage;
 
-public class TestClass {
+public class ReverseString {
 
     public static void main(String[] args) {
         String ss = "Aryan";

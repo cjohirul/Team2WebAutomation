@@ -1,6 +1,6 @@
 package homepage;
 
-public class TestClass1 {
+public class ReverseStringMyChildrenName {
     public static void main(String[] args) {
 
 
